@@ -1,6 +1,6 @@
 #!/bin/bash
 # Test commands for Assignment 2 - Task Manager API
-BASE_URL="http://localhost:5000"
+BASE_URL="http://localhost:5001"
 
 echo "=== Testing Category Endpoints ==="
 
